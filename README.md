@@ -2,6 +2,7 @@
 This repository houses designs and code for my Final Year Project, centered on designing a 32-bit MIPS Arithmetic Logic Unit (ALU) tailored to meet the demands of the hardware realization of the MIPS CPU datapath. It contains Logisim designs for foundational understanding, VHDL implementations of a Single-Cycle MIPS CPU, and a MIPS Assembler written in C++ to enable users to define and execute custom test programs. 
 
 ### Logisim Design
+Everything started with a 1-Bit ALU in Logisim to thoroughly understand the inner workings of the ALU. The design scales by cascading units into a full 32-Bit ALU. Although primarily for educational purposes, this groundwork prepared for implementing the ALU in VHDL within a MIPS CPU architecture.
 
 ### VHDL Implementation
 In my implementation of the Single-Cycle MIPS CPU, which includes the Control Unit and every Functional Unit of the datapath (Program Counter, Adders, Instruction Memory, Data Memory, Multiplexers, Registers, Shifters, and a Sign Extender), I followed this diagram!

@@ -22,4 +22,4 @@ $ MIPSAssembler <input_file_name>.ext <output_file_name>.ext
 ```
 ![Assembler](https://github.com/Saeb0x/MIPS32-ALU/assets/56490771/627ac9b5-5c8d-4cda-b9e0-e9fc3a0bd364)
 
-If you're interested in more details, check out this [motivation](https://saebnaser.com/post/32-bit-mips-alu-motivation/) and [design](https://saebnaser.com/post/32-bit-mips-alu-design/) blog posts, where I provide a thorough breakdown of everything I did.
+If you're interested in more details, check out this [motivation](https://saebnaser.com/post/32-bit-mips-alu-motivation/), [design](https://saebnaser.com/post/32-bit-mips-alu-design/), and [simulation](https://saebnaser.com/post/32-bit-mips-alu-simulation/) blog posts, where I provide a thorough breakdown of everything I did.
